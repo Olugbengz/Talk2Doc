@@ -1,0 +1,11 @@
+django==4.2.7
+djangorestframework
+pyyaml
+requests
+django-cors-headers
+python-decouple
+psycopg2
+dj-database-url
+Pillow
+python-dotenv
+
