@@ -1,11 +1,81 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9ef9a366-34c6-4fb5-aac6-3e1c5e592e81" name="Changes" comment="" />
+    <list default="true" id="9ef9a366-34c6-4fb5-aac6-3e1c5e592e81" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/Talk2Doc.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Talk2Doc.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/telemed_app/api/ambulance/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/telemed_app/api/ambulance/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/telemed_app/api/ambulance/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/telemed_app/api/ambulance/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/telemed_app/api/ambulance/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/telemed_app/api/ambulance/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/telemed_app/api/ambulance/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/telemed_app/api/appointment/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/telemed_app/api/appointment/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/telemed_app/api/appointment/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/telemed_app/api/appointment/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/telemed_app/api/appointment/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/telemed_app/api/appointment/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/telemed_app/api/appointment/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/telemed_app/api/chat/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/telemed_app/api/chat/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/telemed_app/api/chat/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/telemed_app/api/chat/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/telemed_app/api/chat/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/telemed_app/api/chat/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/telemed_app/api/chat/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/telemed_app/api/hospital/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/telemed_app/api/hospital/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/telemed_app/api/hospital/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/telemed_app/api/hospital/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/telemed_app/api/hospital/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/telemed_app/api/hospital/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/telemed_app/api/hospital/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/telemed_app/api/laboratory/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/telemed_app/api/laboratory/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/telemed_app/api/laboratory/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/telemed_app/api/laboratory/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/telemed_app/api/laboratory/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/telemed_app/api/laboratory/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/telemed_app/api/laboratory/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/telemed_app/api/patient_record/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/telemed_app/api/patient_record/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/telemed_app/api/patient_record/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/telemed_app/api/patient_record/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/telemed_app/api/patient_record/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/telemed_app/api/patient_record/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/telemed_app/api/patient_record/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/telemed_app/api/patient_record/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/telemed_app/api/payment/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/telemed_app/api/payment/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/telemed_app/api/payment/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/telemed_app/api/payment/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/telemed_app/api/payment/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/telemed_app/api/payment/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/telemed_app/api/payment/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/telemed_app/api/users_account/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/telemed_app/api/users_account/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/telemed_app/api/users_account/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/telemed_app/api/users_account/forms.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/telemed_app/api/users_account/managers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/telemed_app/api/users_account/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/telemed_app/api/users_account/migrations/0002_docspecialty_patient_doctor.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/telemed_app/api/users_account/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/telemed_app/api/users_account/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/telemed_app/api/users_account/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/telemed_app/api/users_account/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/telemed_app/telemed_app/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/telemed_app/telemed_app/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/telemed_app/telemed_app/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/telemed_app/telemed_app/urls.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -15,14 +85,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/gbeng/Desktop/Talk2Doc",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/gbeng/Desktop/Talk2Doc&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -33,5 +103,16 @@
       <updated>1699979712349</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
